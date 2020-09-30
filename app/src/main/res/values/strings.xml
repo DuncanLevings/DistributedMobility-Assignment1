@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Assignment1</string>
+
+
+    <string name="select_title">Select your move&#8230;</string>
+
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="rock">Rock</string>
+
+    <string name="play">Play!</string>
+
+    <string name="output_won">You Won!</string>
+    <string name="output_lost">You Lost!</string>
+
+    <string name="play_again">Play again?</string>
 </resources>
