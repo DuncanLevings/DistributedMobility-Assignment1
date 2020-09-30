@@ -7,11 +7,18 @@
     <string name="paper">Paper</string>
     <string name="scissors">Scissors</string>
     <string name="rock">Rock</string>
+    <string name="undefined">Undefined</string>
 
     <string name="play">Play!</string>
 
+    <string name="your_move">You Move:</string>
+    <string name="cpu_move">Computers Move:</string>
+
     <string name="output_won">You Won!</string>
     <string name="output_lost">You Lost!</string>
+    <string name="output_tie">Tied!</string>
 
     <string name="play_again">Play again?</string>
+    <string name="title_activity_play">PlayActivity</string>
+
 </resources>
